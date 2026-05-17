@@ -4,7 +4,7 @@
 This project focuses on **Image Classification using Convolutional Neural Networks (CNNs)** for identifying different animal categories from image datasets.  
 The model was trained using a **2-phase training strategy**, which significantly improved performance and achieved an impressive **97.88% accuracy**.
 
-The project demonstrates the power of Deep Learning and CNN architectures in solving real-world computer vision problems.
+The project demonstrates the power of Deep  Learning and CNN architectures in solving real-world computer vision problems.
 
 ---
 
